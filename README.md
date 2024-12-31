@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAIRAM743
+- 👋 Hi, I’m @SAIRAM
 - 👀 I’m interested in AI/ML and Web Development
 - 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on OpenSource Projects
